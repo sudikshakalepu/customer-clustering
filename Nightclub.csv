@@ -1,0 +1,251 @@
+CustomerType,Pricing_Strategy,Fair1,Fair2,Fair3,WOM_1,WOM_2,WOM_3,RI_1,RI_2,RI_3,FAM1,FAM2,Nightclub_Frequency,Gender,Age,Ethnicity,Income,Employment_status,Education
+Frequent customer,Time of a day,2.0,2.0,2.0,1.0,1.0,1.0,2.0,3.0,1.0,2.0,2.0,Once a Week,Male,21.0,caucasian,$50.000 - $79.999,Student,Some college
+Frequent customer,VIP entrance,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,4.0,3.0,Once a Month,Female,35.0,other,under $20.000,Retired,Some college
+Frequent customer,VIP entrance,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,4.0,3.0,Once a Month,Female,26.0,pacific islander,under $20.000,Retired,Some college
+Frequent customer,Flat pricing,4.0,3.0,2.0,3.0,3.0,1.0,5.0,3.0,5.0,3.0,3.0,2-3 Times a Month,Male,27.0,hispanic,$50.000 - $79.999,Full time employed,Bachelor’s degree
+First time customer,Flat pricing,5.0,6.0,5.0,1.0,2.0,1.0,2.0,3.0,4.0,5.0,5.0,Less than Once a Month,Male,54.0,caucasian,under $20.000,Student,Some college
+Frequent customer,Time of a day,1.0,2.0,2.0,2.0,2.0,2.0,1.0,1.0,1.0,2.0,2.0,Once a Week,Male,21.0,caucasian,$50.000 - $79.999,Student,Some college
+Frequent customer,Reservation in advance,1.0,1.0,2.0,2.0,2.0,2.0,1.0,1.0,1.0,5.0,3.0,Less than Once a Month,Female,52.0,caucasian,$20.000 - $49.999,Retired,High school diploma
+Frequent customer,Reservation in advance,1.0,1.0,2.0,2.0,2.0,2.0,1.0,1.0,1.0,5.0,3.0,Less than Once a Month,Female,67.0,caucasian,$20.000 - $49.999,Retired,High school diploma
+Frequent customer,VIP entrance,1.0,1.0,1.0,1.0,2.0,2.0,3.0,3.0,3.0,4.0,1.0,Once a Month,Female,50.0,caucasian,$100.000 or over,Full time employed,Bachelor’s degree
+Frequent customer,VIP entrance,1.0,1.0,1.0,1.0,2.0,2.0,1.0,1.0,1.0,2.0,4.0,2-3 Times a Month,Female,30.0,caucasian,$50.000 - $79.999,Full time employed,Bachelor’s degree
+First time customer,Flat pricing,1.0,2.0,1.0,3.0,3.0,2.0,2.0,2.0,2.0,6.0,4.0,Once a Week,Female,21.0,caucasian,$100.000 or over,Student,Some college
+First time customer,Flat pricing,1.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,6.0,6.0,2-3 Times a Month,Male,27.0,caucasian,under $20.000,Student,Some college
+Frequent customer,Reservation in advance,2.0,2.0,2.0,2.0,2.0,2.0,3.0,3.0,2.0,3.0,3.0,Once a Week,Male,54.0,caucasian,$50.000 - $79.999,Full time employed,High school diploma
+Frequent customer,VIP entrance,2.0,2.0,2.0,3.0,4.0,2.0,1.0,2.0,2.0,1.0,2.0,Less than Once a Month,Female,21.0,caucasian,$20.000 - $49.999,Student,Some college
+Frequent customer,Flat pricing,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,5.0,2.0,3.0,2-3 Times a Month,Female,37.0,caucasian,$100.000 or over,Unemployed,Some college
+Frequent customer,Flat pricing,5.0,5.0,4.0,2.0,2.0,2.0,3.0,3.0,2.0,5.0,4.0,Once a Week,Male,22.0,caucasian,under $20.000,Student,Some college
+Frequent customer,Flat pricing,2.0,4.0,3.0,2.0,2.0,2.0,2.0,2.0,3.0,6.0,5.0,2-3 Times a Month,Female,28.0,caucasian,$80.000 - $99.999,Full time employed,Master’s degree
+First time customer,Time of a day,2.0,2.0,2.0,2.0,2.0,2.0,3.0,3.0,3.0,6.0,4.0,Less than Once a Month,Female,53.0,caucasian,$80.000 - $99.999,Retired,Some college
+First time customer,Reservation in advance,2.0,2.0,2.0,2.0,2.0,2.0,3.0,3.0,3.0,2.0,2.0,Once a Month,Female,48.0,caucasian,$100.000 or over,Full time employed,Bachelor’s degree
+First time customer,Reservation in advance,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,1.0,1.0,2-3 Times a Month,Female,53.0,caucasian,$100.000 or over,Part time employed,High school diploma
+First time customer,Reservation in advance,3.0,3.0,3.0,2.0,2.0,2.0,1.0,1.0,1.0,2.0,1.0,Less than Once a Month,Female,59.0,caucasian,under $20.000,Retired,Some college
+First time customer,Flat pricing,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,7.0,5.0,Once a Month,Female,41.0,hispanic,$20.000 - $49.999,Full time employed,High school diploma
+First time customer,Flat pricing,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,2.0,4.0,3.0,2-3 Times a Month,Female,45.0,caucasian,$80.000 - $99.999,Full time employed,Some college
+Frequent customer,Reservation in advance,3.0,3.0,3.0,2.0,2.0,2.0,1.0,1.0,1.0,3.0,3.0,Once a Week,Male,54.0,caucasian,$50.000 - $79.999,Full time employed,High school diploma
+Frequent customer,VIP entrance,3.0,4.0,2.0,3.0,2.0,2.0,3.0,3.0,3.0,2.0,1.0,2-3 Times a Month,Male,35.0,hispanic,$100.000 or over,Full time employed,Bachelor’s degree
+Frequent customer,VIP entrance,3.0,4.0,2.0,3.0,2.0,2.0,3.0,3.0,3.0,2.0,1.0,2-3 Times a Month,Male,35.0,hispanic,$100.000 or over,Full time employed,Bachelor’s degree
+First time customer,Day of the week,3.0,3.0,4.0,2.0,2.0,2.0,4.0,2.0,4.0,6.0,5.0,Once a Month,Female,22.0,caucasian,under $20.000,Student,Some college
+First time customer,VIP entrance,3.0,3.0,4.0,2.0,2.0,2.0,2.0,2.0,2.0,3.0,3.0,Once a Week,Female,24.0,caucasian,$20.000 - $49.999,Full time employed,Bachelor’s degree
+Frequent customer,Day of the week,4.0,4.0,5.0,4.0,4.0,2.0,2.0,2.0,2.0,1.0,1.0,2-3 Times a Month,Female,52.0,caucasian,$80.000 - $99.999,Full time employed,Bachelor’s degree
+Frequent customer,Time of a day,4.0,5.0,4.0,2.0,2.0,2.0,3.0,3.0,3.0,5.0,5.0,Less than Once a Month,Female,57.0,hispanic,under $20.000,Full time employed,Some college
+Frequent customer,Flat pricing,5.0,1.0,5.0,2.0,3.0,2.0,3.0,2.0,4.0,5.0,3.0,Less than Once a Month,Female,24.0,caucasian,under $20.000,Student,Some college
+First time customer,Time of a day,5.0,5.0,5.0,2.0,2.0,2.0,2.0,2.0,2.0,5.0,4.0,2-3 Times a Month,Male,21.0,caucasian,under $20.000,Student,Some college
+First time customer,Reservation in advance,5.0,3.0,2.0,2.0,2.0,2.0,1.0,2.0,1.0,1.0,1.0,Once a Week,Female,21.0,caucasian,$20.000 - $49.999,Student,Some college
+Frequent customer,Day of the week,6.0,2.0,5.0,3.0,2.0,2.0,5.0,3.0,5.0,6.0,7.0,Once a Week,Male,24.0,caucasian,$20.000 - $49.999,Part time employed,Some college
+Frequent customer,Reservation in advance,6.0,5.0,4.0,2.0,6.0,2.0,2.0,1.0,2.0,4.0,3.0,2-3 Times a Week,Male,21.0,caucasian,$20.000 - $49.999,Student,Some college
+First time customer,Flat pricing,6.0,5.0,5.0,1.0,4.0,2.0,5.0,4.0,5.0,4.0,4.0,Once a Week,Male,24.0,african american,$20.000 - $49.999,Student,Some college
+Frequent customer,Reservation in advance,1.0,2.0,2.0,3.0,3.0,3.0,3.0,3.0,3.0,2.0,2.0,Less than Once a Month,Female,52.0,caucasian,$20.000 - $49.999,Retired,High school diploma
+First time customer,Reservation in advance,1.0,2.0,2.0,3.0,3.0,3.0,4.0,4.0,4.0,2.0,1.0,Less than Once a Month,Female,59.0,caucasian,under $20.000,Retired,Some college
+Frequent customer,Day of the week,2.0,2.0,2.0,3.0,4.0,3.0,4.0,3.0,3.0,6.0,5.0,Once a Month,Male,45.0,caucasian,$100.000 or over,Full time employed,Master’s degree
+Frequent customer,Day of the week,2.0,2.0,2.0,3.0,4.0,3.0,4.0,3.0,3.0,5.0,5.0,2-3 Times a Month,Female,22.0,hispanic,$50.000 - $79.999,Full time employed,Some college
+Frequent customer,Time of a day,2.0,3.0,2.0,3.0,3.0,3.0,2.0,2.0,3.0,6.0,5.0,2-3 Times a Month,Female,23.0,caucasian,$80.000 - $99.999,Student,Some college
+Frequent customer,Reservation in advance,2.0,4.0,3.0,5.0,2.0,3.0,4.0,4.0,4.0,2.0,1.0,2-3 Times a Week,Female,21.0,caucasian,under $20.000,Student,Some college
+First time customer,Time of a day,2.0,3.0,2.0,3.0,3.0,3.0,2.0,2.0,2.0,2.0,3.0,Less than Once a Month,Female,53.0,caucasian,$80.000 - $99.999,Retired,Some college
+Frequent customer,Day of the week,3.0,5.0,5.0,3.0,3.0,3.0,3.0,3.0,3.0,3.0,5.0,Once a Month,Female,37.0,caucasian,under $20.000,Student,Some college
+Frequent customer,Time of a day,3.0,3.0,3.0,3.0,3.0,3.0,5.0,5.0,5.0,4.0,5.0,2-3 Times a Month,Male,46.0,caucasian,$100.000 or over,Retired,Some college
+Frequent customer,Reservation in advance,3.0,6.0,3.0,4.0,5.0,3.0,5.0,2.0,5.0,1.0,1.0,Once a Month,Female,21.0,caucasian,under $20.000,Student,Some college
+Frequent customer,Reservation in advance,3.0,3.0,3.0,3.0,3.0,3.0,2.0,2.0,2.0,5.0,4.0,2-3 Times a Month,Female,22.0,caucasian,$20.000 - $49.999,Student,Some college
+Frequent customer,VIP entrance,4.0,3.0,3.0,3.0,3.0,3.0,3.0,3.0,3.0,1.0,1.0,2-3 Times a Month,Female,51.0,caucasian,$80.000 - $99.999,Full time employed,Some college
+First time customer,Time of a day,4.0,4.0,5.0,3.0,3.0,3.0,2.0,2.0,2.0,5.0,3.0,Once a Month,Female,68.0,caucasian,$50.000 - $79.999,Retired,Bachelor’s degree
+First time customer,Reservation in advance,4.0,3.0,3.0,2.0,3.0,3.0,5.0,5.0,4.0,2.0,2.0,2-3 Times a Month,Male,25.0,caucasian,$20.000 - $49.999,Full time employed,High school diploma
+First time customer,Reservation in advance,4.0,4.0,4.0,3.0,3.0,3.0,3.0,3.0,3.0,3.0,3.0,Less than Once a Month,Male,26.0,hispanic,under $20.000,Full time employed,Some college
+Frequent customer,VIP entrance,5.0,4.0,4.0,5.0,4.0,3.0,2.0,5.0,4.0,2.0,3.0,2-3 Times a Month,Female,34.0,caucasian,under $20.000,Student,Some college
+First time customer,Day of the week,5.0,6.0,5.0,4.0,5.0,3.0,6.0,3.0,6.0,5.0,5.0,2-3 Times a Week,Male,52.0,hispanic,$100.000 or over,Full time employed,Some college
+Frequent customer,Reservation in advance,6.0,6.0,5.0,6.0,4.0,3.0,5.0,4.0,4.0,7.0,4.0,Once a Month,Male,31.0,asian,under $20.000,Student,Some college
+Frequent customer,VIP entrance,6.0,6.0,5.0,4.0,3.0,3.0,3.0,5.0,4.0,5.0,4.0,2-3 Times a Month,Male,24.0,caucasian,$50.000 - $79.999,Full time employed,Some college
+First time customer,Reservation in advance,2.0,4.0,2.0,4.0,4.0,4.0,4.0,4.0,4.0,3.0,4.0,2-3 Times a Month,Male,25.0,caucasian,$20.000 - $49.999,Full time employed,High school diploma
+First time customer,Flat pricing,2.0,4.0,2.0,4.0,4.0,4.0,2.0,2.0,2.0,4.0,4.0,2-3 Times a Month,Female,,caucasian,$80.000 - $99.999,Full time employed,Some college
+Frequent customer,Time of a day,3.0,5.0,3.0,4.0,4.0,4.0,4.0,4.0,4.0,3.0,4.0,2-3 Times a Month,Male,28.0,hispanic,$20.000 - $49.999,Full time employed,Some high school
+Frequent customer,Time of a day,3.0,5.0,3.0,4.0,4.0,4.0,4.0,4.0,4.0,3.0,4.0,2-3 Times a Month,Male,28.0,hispanic,$20.000 - $49.999,Full time employed,Some high school
+First time customer,VIP entrance,3.0,4.0,3.0,4.0,4.0,4.0,4.0,4.0,4.0,4.0,4.0,Less than Once a Month,Female,21.0,caucasian,$20.000 - $49.999,Student,Some college
+Frequent customer,Day of the week,4.0,6.0,5.0,5.0,5.0,4.0,6.0,4.0,6.0,4.0,3.0,Once a Week,Male,25.0,hispanic,under $20.000,Part time employed,High school diploma
+Frequent customer,Day of the week,5.0,5.0,5.0,4.0,4.0,4.0,4.0,4.0,4.0,4.0,2.0,Less than Once a Month,Female,36.0,caucasian,under $20.000,Student,Some college
+Frequent customer,Day of the week,4.0,4.0,4.0,4.0,4.0,4.0,5.0,5.0,4.0,5.0,5.0,2-3 Times a Month,Female,21.0,caucasian,under $20.000,Student,Bachelor’s degree
+Frequent customer,Time of a day,4.0,4.0,5.0,4.0,4.0,4.0,4.0,4.0,4.0,5.0,3.0,2-3 Times a Month,Male,28.0,hispanic,$20.000 - $49.999,Full time employed,Some high school
+Frequent customer,Reservation in advance,4.0,4.0,4.0,4.0,4.0,4.0,3.0,3.0,3.0,4.0,4.0,Once a Week,Male,45.0,caucasian,$100.000 or over,Student,Some college
+Frequent customer,VIP entrance,4.0,4.0,4.0,4.0,4.0,4.0,4.0,3.0,3.0,1.0,3.0,2-3 Times a Week,Female,45.0,caucasian,$80.000 - $99.999,Full time employed,Some college
+First time customer,Day of the week,4.0,6.0,5.0,4.0,4.0,4.0,5.0,4.0,5.0,2.0,4.0,2-3 Times a Week,Female,21.0,caucasian,under $20.000,Part time employed,Some college
+First time customer,Time of a day,4.0,4.0,5.0,4.0,4.0,4.0,2.0,2.0,2.0,1.0,2.0,Once a Month,Male,41.0,caucasian,$100.000 or over,Full time employed,Bachelor’s degree
+First time customer,VIP entrance,4.0,5.0,5.0,5.0,3.0,4.0,3.0,5.0,2.0,4.0,5.0,Once a Week,Male,22.0,caucasian,under $20.000,Student,Some college
+First time customer,VIP entrance,4.0,2.0,5.0,4.0,4.0,4.0,5.0,4.0,5.0,1.0,1.0,2-3 Times a Month,Female,21.0,caucasian,$20.000 - $49.999,Student,Some college
+First time customer,Flat pricing,4.0,5.0,5.0,4.0,4.0,4.0,4.0,5.0,5.0,5.0,4.0,Once a Month,Female,26.0,african american,$20.000 - $49.999,Full time employed,Bachelor’s degree
+First time customer,Flat pricing,4.0,4.0,4.0,4.0,4.0,4.0,4.0,4.0,4.0,7.0,5.0,Once a Week,Female,34.0,caucasian,$100.000 or over,Unemployed,Some college
+First time customer,Flat pricing,4.0,5.0,5.0,4.0,4.0,4.0,6.0,3.0,5.0,5.0,3.0,Once a Week,Female,34.0,caucasian,$100.000 or over,Unemployed,Some college
+First time customer,Flat pricing,4.0,4.0,4.0,4.0,4.0,4.0,4.0,4.0,4.0,6.0,4.0,2-3 Times a Month,Female,22.0,caucasian,under $20.000,Student,Bachelor’s degree
+Frequent customer,Day of the week,5.0,2.0,5.0,2.0,2.0,4.0,3.0,2.0,3.0,2.0,5.0,2-3 Times a Month,Female,24.0,caucasian,$50.000 - $79.999,Full time employed,Bachelor’s degree
+Frequent customer,Reservation in advance,5.0,5.0,4.0,4.0,4.0,4.0,5.0,4.0,5.0,2.0,3.0,2-3 Times a Week,Male,22.0,caucasian,$20.000 - $49.999,Full time employed,Bachelor’s degree
+Frequent customer,VIP entrance,5.0,6.0,3.0,4.0,4.0,4.0,4.0,4.0,4.0,2.0,3.0,Once a Week,Female,22.0,caucasian,$20.000 - $49.999,Student,Some college
+Frequent customer,VIP entrance,5.0,7.0,6.0,5.0,6.0,4.0,6.0,3.0,6.0,5.0,4.0,Once a Week,Female,23.0,african american,$80.000 - $99.999,Student,Bachelor’s degree
+First time customer,Day of the week,5.0,7.0,6.0,6.0,5.0,4.0,4.0,4.0,6.0,6.0,6.0,2-3 Times a Week,Female,22.0,hispanic,under $20.000,Unemployed,High school diploma
+First time customer,Time of a day,5.0,2.0,5.0,5.0,5.0,4.0,5.0,4.0,5.0,3.0,4.0,2-3 Times a Week,Male,43.0,native american,$20.000 - $49.999,Full time employed,High school diploma
+First time customer,VIP entrance,5.0,3.0,5.0,5.0,5.0,4.0,6.0,5.0,5.0,6.0,6.0,2-3 Times a Week,Female,35.0,caucasian,under $20.000,Student,Some college
+First time customer,Flat pricing,5.0,5.0,5.0,4.0,4.0,4.0,4.0,4.0,4.0,3.0,4.0,Once a Week,Male,36.0,caucasian,$80.000 - $99.999,Full time employed,Doctoral degree
+First time customer,Flat pricing,5.0,4.0,5.0,4.0,4.0,4.0,4.0,4.0,4.0,5.0,4.0,Less than Once a Month,Female,21.0,african american,$20.000 - $49.999,Part time employed,Some college
+First time customer,Flat pricing,5.0,6.0,5.0,4.0,4.0,4.0,5.0,4.0,5.0,2.0,5.0,2-3 Times a Week,Male,21.0,caucasian,$100.000 or over,Student,Some college
+Frequent customer,Day of the week,6.0,6.0,6.0,4.0,4.0,4.0,4.0,4.0,4.0,6.0,5.0,Once a Month,Male,39.0,hispanic,$20.000 - $49.999,Student,Some college
+Frequent customer,Time of a day,6.0,6.0,7.0,4.0,4.0,4.0,5.0,4.0,7.0,5.0,4.0,Once a Week,Male,26.0,hispanic,under $20.000,Unemployed,High school diploma
+Frequent customer,Time of a day,6.0,3.0,3.0,4.0,5.0,4.0,5.0,5.0,5.0,4.0,4.0,2-3 Times a Month,Female,21.0,hispanic,under $20.000,Student,Some college
+Frequent customer,Reservation in advance,6.0,6.0,6.0,4.0,4.0,4.0,5.0,4.0,5.0,6.0,5.0,2-3 Times a Month,Male,33.0,hispanic,$20.000 - $49.999,Full time employed,Some college
+Frequent customer,VIP entrance,6.0,5.0,5.0,6.0,6.0,4.0,6.0,6.0,6.0,6.0,5.0,Once a Week,Male,22.0,caucasian,$20.000 - $49.999,Full time employed,Some college
+Frequent customer,VIP entrance,6.0,3.0,5.0,4.0,4.0,4.0,3.0,3.0,2.0,5.0,3.0,Less than Once a Month,Male,33.0,african american,$20.000 - $49.999,Full time employed,Bachelor’s degree
+Frequent customer,Flat pricing,6.0,4.0,5.0,4.0,5.0,4.0,7.0,4.0,6.0,2.0,3.0,2-3 Times a Week,Male,37.0,caucasian,$100.000 or over,Student,Some college
+Frequent customer,Flat pricing,6.0,4.0,5.0,4.0,5.0,4.0,7.0,4.0,6.0,2.0,3.0,2-3 Times a Week,Male,45.0,caucasian,$100.000 or over,Student,Some college
+First time customer,Day of the week,6.0,5.0,5.0,4.0,4.0,4.0,4.0,4.0,4.0,5.0,4.0,2-3 Times a Month,Female,56.0,hispanic,under $20.000,Student,Some college
+First time customer,Day of the week,6.0,6.0,6.0,7.0,4.0,4.0,5.0,4.0,4.0,6.0,7.0,2-3 Times a Week,Male,29.0,caucasian,$100.000 or over,Full time employed,Doctoral degree
+First time customer,Day of the week,6.0,6.0,6.0,4.0,4.0,4.0,4.0,4.0,4.0,5.0,5.0,Once a Week,Male,34.0,caucasian,$80.000 - $99.999,Full time employed,Bachelor’s degree
+First time customer,Time of a day,6.0,6.0,6.0,5.0,4.0,4.0,6.0,4.0,4.0,7.0,6.0,2-3 Times a Week,Male,21.0,caucasian,under $20.000,Student,Some college
+First time customer,Time of a day,6.0,4.0,5.0,4.0,4.0,4.0,4.0,4.0,4.0,6.0,4.0,Less than Once a Month,Female,42.0,caucasian,$50.000 - $79.999,Full time employed,Master’s degree
+First time customer,Time of a day,6.0,6.0,6.0,4.0,4.0,4.0,3.0,3.0,3.0,1.0,1.0,Once a Month,Female,54.0,caucasian,$100.000 or over,Part time employed,Doctoral degree
+First time customer,Time of a day,6.0,6.0,6.0,4.0,4.0,4.0,4.0,4.0,4.0,6.0,4.0,2-3 Times a Week,Male,21.0,asian,under $20.000,Student,Some college
+First time customer,Time of a day,6.0,5.0,5.0,5.0,5.0,4.0,5.0,4.0,4.0,5.0,5.0,Once a Month,Female,21.0,caucasian,under $20.000,Part time employed,Some college
+First time customer,Time of a day,6.0,6.0,6.0,4.0,4.0,4.0,4.0,4.0,4.0,2.0,1.0,Once a Week,Female,21.0,caucasian,under $20.000,Student,Some college
+First time customer,Reservation in advance,6.0,7.0,6.0,4.0,5.0,4.0,6.0,4.0,6.0,4.0,5.0,2-3 Times a Month,Male,28.0,african american,$20.000 - $49.999,Full time employed,High school diploma
+First time customer,Reservation in advance,6.0,5.0,4.0,2.0,3.0,4.0,5.0,5.0,4.0,5.0,4.0,Daily,Male,21.0,caucasian,$20.000 - $49.999,Part time employed,Some college
+First time customer,Reservation in advance,6.0,7.0,6.0,4.0,5.0,4.0,6.0,4.0,6.0,2.0,3.0,Once a Week,Male,54.0,caucasian,under $20.000,Student,Some college
+First time customer,VIP entrance,6.0,5.0,5.0,5.0,5.0,4.0,5.0,4.0,4.0,2.0,1.0,Less than Once a Month,Female,47.0,caucasian,$80.000 - $99.999,Full time employed,Bachelor’s degree
+First time customer,VIP entrance,6.0,6.0,6.0,4.0,4.0,4.0,5.0,3.0,6.0,3.0,3.0,Once a Week,Male,45.0,caucasian,$100.000 or over,Full time employed,Some college
+Frequent customer,VIP entrance,7.0,7.0,6.0,4.0,4.0,4.0,5.0,5.0,5.0,1.0,1.0,2-3 Times a Week,Male,32.0,caucasian,$100.000 or over,Full time employed,Master’s degree
+First time customer,Day of the week,7.0,7.0,7.0,4.0,4.0,4.0,4.0,4.0,4.0,5.0,4.0,2-3 Times a Month,Male,32.0,caucasian,$100.000 or over,Full time employed,Bachelor’s degree
+First time customer,Day of the week,7.0,7.0,7.0,4.0,4.0,4.0,4.0,4.0,4.0,5.0,4.0,2-3 Times a Month,Male,32.0,caucasian,$100.000 or over,Full time employed,Bachelor’s degree
+First time customer,Time of a day,7.0,7.0,7.0,4.0,4.0,4.0,6.0,7.0,5.0,7.0,6.0,Once a Month,Female,22.0,caucasian,under $20.000,Student,Some college
+Frequent customer,Day of the week,2.0,5.0,4.0,4.0,4.0,5.0,5.0,5.0,5.0,2.0,3.0,Once a Week,Male,70.0,caucasian,$100.000 or over,Retired,Some college
+Frequent customer,Reservation in advance,2.0,5.0,4.0,3.0,5.0,5.0,2.0,2.0,3.0,5.0,4.0,2-3 Times a Week,Female,21.0,caucasian,under $20.000,Student,Some college
+Frequent customer,VIP entrance,2.0,3.0,5.0,4.0,5.0,5.0,6.0,6.0,6.0,1.0,1.0,Once a Week,Female,45.0,caucasian,$50.000 - $79.999,Student,Some college
+Frequent customer,Flat pricing,2.0,3.0,5.0,4.0,5.0,5.0,3.0,3.0,2.0,5.0,4.0,Once a Week,Male,22.0,caucasian,under $20.000,Student,Some college
+Frequent customer,Day of the week,3.0,3.0,4.0,5.0,5.0,5.0,4.0,4.0,4.0,4.0,3.0,2-3 Times a Month,Female,21.0,caucasian,under $20.000,Student,Some college
+Frequent customer,Day of the week,3.0,3.0,4.0,5.0,5.0,5.0,5.0,5.0,5.0,6.0,5.0,Once a Week,Male,22.0,hispanic,$20.000 - $49.999,Student,Some college
+First time customer,Day of the week,3.0,5.0,4.0,5.0,4.0,5.0,6.0,5.0,4.0,6.0,4.0,2-3 Times a Week,Female,43.0,caucasian,under $20.000,Student,Some college
+First time customer,Flat pricing,3.0,5.0,4.0,5.0,6.0,5.0,5.0,4.0,5.0,5.0,6.0,Once a Week,Female,21.0,caucasian,$20.000 - $49.999,Student,Some college
+First time customer,Flat pricing,3.0,2.0,3.0,4.0,5.0,5.0,3.0,4.0,3.0,5.0,4.0,2-3 Times a Month,Female,45.0,caucasian,$80.000 - $99.999,Full time employed,Some college
+Frequent customer,Time of a day,4.0,4.0,3.0,4.0,5.0,5.0,6.0,6.0,6.0,5.0,6.0,2-3 Times a Week,Male,33.0,caucasian,$100.000 or over,Student,Some college
+Frequent customer,Time of a day,4.0,4.0,3.0,4.0,5.0,5.0,6.0,6.0,6.0,5.0,4.0,2-3 Times a Month,Female,21.0,asian,$20.000 - $49.999,Student,Some college
+Frequent customer,Time of a day,4.0,4.0,5.0,5.0,5.0,5.0,5.0,5.0,5.0,4.0,4.0,2-3 Times a Month,Female,41.0,caucasian,under $20.000,Student,Some college
+Frequent customer,VIP entrance,4.0,6.0,5.0,4.0,5.0,5.0,5.0,4.0,6.0,5.0,4.0,Once a Week,Male,21.0,caucasian,under $20.000,Student,Some college
+First time customer,Time of a day,4.0,5.0,4.0,5.0,4.0,5.0,5.0,4.0,4.0,5.0,6.0,Once a Month,Female,25.0,native american,under $20.000,Student,Bachelor’s degree
+First time customer,Flat pricing,4.0,4.0,6.0,5.0,5.0,5.0,5.0,4.0,4.0,2.0,2.0,2-3 Times a Month,Female,48.0,caucasian,$100.000 or over,Part time employed,Some college
+Frequent customer,Day of the week,5.0,6.0,6.0,5.0,4.0,5.0,6.0,4.0,5.0,7.0,7.0,2-3 Times a Month,Male,43.0,hispanic,$20.000 - $49.999,Full time employed,High school diploma
+Frequent customer,Day of the week,5.0,5.0,4.0,5.0,5.0,5.0,5.0,4.0,5.0,1.0,4.0,Once a Week,Male,24.0,caucasian,$20.000 - $49.999,Student,Some college
+Frequent customer,Day of the week,5.0,4.0,5.0,4.0,5.0,5.0,4.0,4.0,4.0,5.0,6.0,Less than Once a Month,Female,21.0,caucasian,$80.000 - $99.999,Student,Some college
+Frequent customer,Reservation in advance,5.0,5.0,5.0,5.0,5.0,5.0,5.0,5.0,5.0,5.0,4.0,2-3 Times a Month,Female,65.0,caucasian,under $20.000,Student,Some college
+Frequent customer,Reservation in advance,5.0,5.0,6.0,5.0,5.0,5.0,6.0,6.0,6.0,5.0,4.0,Once a Month,Male,43.0,hispanic,$80.000 - $99.999,Full time employed,Some college
+Frequent customer,Reservation in advance,5.0,4.0,5.0,5.0,5.0,5.0,5.0,5.0,5.0,3.0,1.0,Once a Week,Male,45.0,caucasian,$100.000 or over,Student,Some college
+Frequent customer,Flat pricing,5.0,4.0,4.0,5.0,5.0,5.0,6.0,6.0,6.0,3.0,4.0,Less than Once a Month,Male,24.0,caucasian,$50.000 - $79.999,Part time employed,Some college
+First time customer,Day of the week,5.0,5.0,5.0,5.0,5.0,5.0,5.0,5.0,5.0,6.0,4.0,Once a Week,Female,23.0,caucasian,under $20.000,Part time employed,Master’s degree
+First time customer,Day of the week,5.0,5.0,5.0,5.0,5.0,5.0,5.0,6.0,6.0,3.0,3.0,Once a Month,Female,34.0,native american,$100.000 or over,Full time employed,Some graduate school
+First time customer,Day of the week,5.0,5.0,5.0,5.0,5.0,5.0,6.0,6.0,6.0,2.0,2.0,2-3 Times a Week,Female,22.0,hispanic,under $20.000,Unemployed,High school diploma
+First time customer,Day of the week,5.0,6.0,7.0,4.0,5.0,5.0,6.0,5.0,5.0,1.0,2.0,Once a Week,Female,56.0,other,$20.000 - $49.999,Part time employed,Some college
+First time customer,Day of the week,2.0,3.0,3.0,4.0,5.0,5.0,4.0,4.0,5.0,2.0,1.0,Less than Once a Month,Female,49.0,caucasian,$80.000 - $99.999,Full time employed,Some college
+First time customer,Day of the week,5.0,6.0,5.0,4.0,5.0,5.0,4.0,4.0,4.0,6.0,4.0,Once a Week,Male,32.0,caucasian,under $20.000,Student,Some college
+First time customer,Day of the week,5.0,5.0,5.0,5.0,5.0,5.0,5.0,5.0,5.0,7.0,5.0,2-3 Times a Month,Male,41.0,other,$20.000 - $49.999,Full time employed,High school diploma
+First time customer,Reservation in advance,5.0,4.0,5.0,5.0,5.0,5.0,5.0,5.0,5.0,5.0,5.0,2-3 Times a Month,Male,26.0,hispanic,$20.000 - $49.999,Full time employed,High school diploma
+First time customer,Reservation in advance,5.0,5.0,5.0,5.0,4.0,5.0,6.0,2.0,3.0,5.0,5.0,2-3 Times a Month,Male,26.0,hispanic,$20.000 - $49.999,Full time employed,High school diploma
+First time customer,VIP entrance,5.0,4.0,4.0,5.0,5.0,5.0,6.0,6.0,6.0,6.0,5.0,Less than Once a Month,Female,50.0,caucasian,$100.000 or over,Unemployed,Master’s degree
+First time customer,VIP entrance,5.0,4.0,5.0,5.0,4.0,5.0,5.0,5.0,5.0,5.0,6.0,Once a Month,Male,21.0,hispanic,under $20.000,Part time employed,Some college
+First time customer,VIP entrance,5.0,5.0,6.0,6.0,5.0,5.0,6.0,6.0,6.0,5.0,5.0,2-3 Times a Week,Male,22.0,caucasian,$50.000 - $79.999,Part time employed,Some college
+First time customer,Flat pricing,5.0,4.0,5.0,5.0,5.0,5.0,4.0,4.0,5.0,6.0,4.0,Less than Once a Month,Female,26.0,caucasian,under $20.000,Full time employed,Some college
+First time customer,Flat pricing,5.0,5.0,6.0,5.0,5.0,5.0,6.0,6.0,6.0,2.0,3.0,Once a Week,Female,25.0,caucasian,$100.000 or over,Student,Some college
+Frequent customer,Day of the week,6.0,6.0,6.0,4.0,5.0,5.0,6.0,5.0,5.0,6.0,4.0,Once a Month,Male,45.0,caucasian,$100.000 or over,Full time employed,Master’s degree
+Frequent customer,Day of the week,6.0,5.0,5.0,5.0,5.0,5.0,6.0,5.0,6.0,2.0,1.0,Once a Month,Male,39.0,hispanic,$20.000 - $49.999,Student,Some college
+Frequent customer,Time of a day,6.0,6.0,6.0,5.0,5.0,5.0,5.0,5.0,5.0,6.0,5.0,2-3 Times a Month,Female,45.0,caucasian,$20.000 - $49.999,Student,Bachelor’s degree
+Frequent customer,Reservation in advance,6.0,6.0,5.0,4.0,5.0,5.0,5.0,4.0,5.0,5.0,2.0,Less than Once a Month,Male,53.0,caucasian,$80.000 - $99.999,Retired,Some college
+Frequent customer,Reservation in advance,6.0,5.0,5.0,5.0,5.0,5.0,6.0,4.0,5.0,5.0,6.0,2-3 Times a Month,Male,21.0,caucasian,under $20.000,Student,Some college
+Frequent customer,VIP entrance,6.0,5.0,6.0,6.0,6.0,5.0,6.0,5.0,6.0,1.0,1.0,Once a Week,Male,21.0,caucasian,$100.000 or over,Unemployed,Some college
+Frequent customer,Flat pricing,6.0,6.0,5.0,4.0,4.0,5.0,5.0,5.0,5.0,2.0,4.0,2-3 Times a Month,Female,23.0,caucasian,$20.000 - $49.999,Student,Some college
+First time customer,Time of a day,6.0,6.0,6.0,6.0,4.0,5.0,6.0,3.0,5.0,5.0,3.0,Once a Month,Female,28.0,hispanic,$50.000 - $79.999,Full time employed,Some college
+First time customer,Time of a day,6.0,6.0,6.0,5.0,5.0,5.0,5.0,5.0,5.0,5.0,6.0,Once a Week,Female,29.0,other,$20.000 - $49.999,Student,Some college
+First time customer,Reservation in advance,7.0,7.0,6.0,5.0,6.0,5.0,6.0,6.0,6.0,5.0,4.0,2-3 Times a Week,Male,34.0,caucasian,$100.000 or over,Part time employed,Bachelor’s degree
+First time customer,Reservation in advance,6.0,6.0,5.0,5.0,5.0,5.0,6.0,5.0,6.0,2.0,4.0,2-3 Times a Week,Male,22.0,caucasian,under $20.000,Student,Some college
+First time customer,Reservation in advance,6.0,6.0,6.0,5.0,6.0,5.0,6.0,6.0,6.0,4.0,3.0,Once a Week,Female,21.0,caucasian,under $20.000,Student,Some college
+First time customer,Reservation in advance,6.0,6.0,6.0,5.0,6.0,5.0,6.0,6.0,6.0,4.0,3.0,Once a Week,Female,21.0,caucasian,under $20.000,Student,Some college
+First time customer,VIP entrance,6.0,7.0,7.0,6.0,7.0,5.0,7.0,6.0,7.0,3.0,4.0,2-3 Times a Month,Male,25.0,caucasian,$20.000 - $49.999,Full time employed,High school diploma
+First time customer,VIP entrance,6.0,6.0,6.0,6.0,6.0,5.0,6.0,4.0,6.0,2.0,3.0,Once a Week,Male,39.0,caucasian,under $20.000,Student,Some college
+First time customer,VIP entrance,6.0,7.0,7.0,6.0,7.0,5.0,7.0,6.0,7.0,7.0,6.0,Once a Month,Male,34.0,caucasian,$80.000 - $99.999,Full time employed,Bachelor’s degree
+First time customer,VIP entrance,6.0,5.0,5.0,5.0,4.0,5.0,6.0,5.0,6.0,6.0,5.0,Once a Week,Female,22.0,caucasian,under $20.000,Student,Some college
+First time customer,VIP entrance,6.0,6.0,7.0,5.0,5.0,5.0,5.0,4.0,5.0,7.0,6.0,2-3 Times a Month,Female,21.0,caucasian,under $20.000,Student,Some college
+Frequent customer,VIP entrance,7.0,4.0,7.0,4.0,5.0,5.0,5.0,5.0,5.0,1.0,1.0,Once a Week,Female,24.0,african american,$20.000 - $49.999,Full time employed,Bachelor’s degree
+Frequent customer,Time of a day,7.0,7.0,7.0,6.0,6.0,6.0,5.0,5.0,5.0,5.0,3.0,2-3 Times a Month,Female,48.0,caucasian,$20.000 - $49.999,Full time employed,Some college
+Frequent customer,VIP entrance,2.0,4.0,3.0,6.0,6.0,6.0,7.0,7.0,7.0,1.0,1.0,2-3 Times a Week,Female,21.0,caucasian,$100.000 or over,Student,Some college
+First time customer,Flat pricing,1.0,2.0,2.0,5.0,6.0,6.0,5.0,5.0,5.0,4.0,4.0,2-3 Times a Week,Male,56.0,caucasian,$20.000 - $49.999,Full time employed,Some college
+Frequent customer,Day of the week,3.0,2.0,6.0,4.0,4.0,6.0,5.0,5.0,5.0,5.0,7.0,2-3 Times a Week,Female,21.0,caucasian,under $20.000,Student,Some college
+Frequent customer,Reservation in advance,3.0,3.0,4.0,4.0,5.0,6.0,6.0,6.0,6.0,6.0,3.0,Once a Week,Female,34.0,caucasian,under $20.000,Student,Some college
+Frequent customer,Flat pricing,3.0,2.0,3.0,6.0,6.0,6.0,5.0,6.0,6.0,6.0,6.0,Once a Week,Male,27.0,caucasian,$80.000 - $99.999,Full time employed,Bachelor’s degree
+First time customer,Day of the week,3.0,3.0,3.0,6.0,6.0,6.0,4.0,4.0,4.0,4.0,4.0,Once a Week,Female,23.0,hispanic,$20.000 - $49.999,Student,Bachelor’s degree
+Frequent customer,Time of a day,4.0,4.0,5.0,6.0,6.0,6.0,6.0,6.0,6.0,5.0,4.0,2-3 Times a Month,Male,56.0,caucasian,$100.000 or over,Full time employed,Doctoral degree
+First time customer,Day of the week,4.0,4.0,4.0,7.0,6.0,6.0,7.0,6.0,6.0,2.0,4.0,2-3 Times a Week,Female,21.0,caucasian,$80.000 - $99.999,Student,Some college
+First time customer,VIP entrance,4.0,4.0,5.0,6.0,6.0,6.0,6.0,6.0,6.0,4.0,4.0,Less than Once a Month,Female,60.0,caucasian,$100.000 or over,Full time employed,Bachelor’s degree
+Frequent customer,Day of the week,5.0,3.0,6.0,6.0,6.0,6.0,6.0,6.0,6.0,6.0,6.0,Once a Week,Female,25.0,caucasian,$50.000 - $79.999,Student,Some college
+Frequent customer,Day of the week,5.0,5.0,3.0,6.0,6.0,6.0,2.0,2.0,5.0,3.0,2.0,2-3 Times a Week,Female,35.0,caucasian,under $20.000,Student,Some college
+Frequent customer,Reservation in advance,5.0,6.0,5.0,6.0,6.0,6.0,7.0,7.0,7.0,5.0,4.0,Once a Week,Female,33.0,hispanic,$20.000 - $49.999,Full time employed,Bachelor’s degree
+Frequent customer,Flat pricing,5.0,4.0,4.0,6.0,6.0,6.0,5.0,5.0,5.0,5.0,4.0,Once a Month,Female,24.0,african american,under $20.000,Student,Some college
+Frequent customer,Flat pricing,5.0,5.0,5.0,6.0,6.0,6.0,6.0,6.0,6.0,5.0,6.0,2-3 Times a Week,Female,35.0,hispanic,$50.000 - $79.999,Student,Some college
+First time customer,Time of a day,5.0,5.0,5.0,6.0,6.0,6.0,6.0,6.0,6.0,4.0,3.0,Once a Week,Female,21.0,caucasian,under $20.000,Student,Some college
+First time customer,Time of a day,5.0,4.0,6.0,6.0,6.0,6.0,5.0,5.0,5.0,1.0,1.0,Once a Month,Male,41.0,caucasian,$100.000 or over,Full time employed,Bachelor’s degree
+First time customer,Reservation in advance,5.0,6.0,6.0,5.0,5.0,6.0,6.0,6.0,5.0,5.0,3.0,2-3 Times a Week,Male,22.0,caucasian,under $20.000,Student,Some college
+First time customer,Reservation in advance,5.0,4.0,5.0,5.0,6.0,6.0,6.0,5.0,6.0,6.0,4.0,Once a Week,Female,29.0,caucasian,$20.000 - $49.999,Student,Some college
+First time customer,VIP entrance,5.0,6.0,7.0,6.0,6.0,6.0,7.0,6.0,7.0,3.0,2.0,Once a Week,Male,36.0,caucasian,$100.000 or over,Student,Some college
+First time customer,Flat pricing,5.0,5.0,6.0,6.0,6.0,6.0,6.0,5.0,5.0,5.0,5.0,2-3 Times a Month,Female,23.0,caucasian,under $20.000,Student,Bachelor’s degree
+Frequent customer,Day of the week,4.0,4.0,4.0,6.0,6.0,6.0,6.0,6.0,6.0,6.0,5.0,Once a Week,Female,26.0,caucasian,$20.000 - $49.999,Part time employed,Some college
+Frequent customer,Day of the week,6.0,4.0,6.0,4.0,5.0,6.0,6.0,6.0,7.0,6.0,5.0,2-3 Times a Month,Male,26.0,caucasian,$50.000 - $79.999,Part time employed,Some college
+Frequent customer,Day of the week,6.0,6.0,6.0,6.0,6.0,6.0,6.0,6.0,6.0,5.0,3.0,2-3 Times a Month,Female,55.0,caucasian,$50.000 - $79.999,Full time employed,Some graduate school
+Frequent customer,Day of the week,6.0,6.0,6.0,4.0,6.0,6.0,6.0,5.0,6.0,6.0,4.0,2-3 Times a Week,Female,33.0,caucasian,$20.000 - $49.999,Full time employed,Bachelor’s degree
+Frequent customer,Time of a day,6.0,6.0,6.0,5.0,6.0,6.0,6.0,6.0,6.0,7.0,7.0,2-3 Times a Month,Female,45.0,hispanic,under $20.000,Student,Some college
+Frequent customer,Time of a day,6.0,7.0,5.0,5.0,5.0,6.0,5.0,6.0,4.0,6.0,5.0,Once a Week,Male,22.0,caucasian,under $20.000,Student,Some college
+Frequent customer,Time of a day,6.0,6.0,6.0,4.0,6.0,6.0,6.0,6.0,6.0,6.0,6.0,Less than Once a Month,Female,28.0,caucasian,under $20.000,Student,Bachelor’s degree
+Frequent customer,Time of a day,7.0,7.0,7.0,6.0,6.0,6.0,5.0,5.0,5.0,3.0,4.0,2-3 Times a Week,Male,33.0,caucasian,$100.000 or over,Student,Some college
+Frequent customer,Reservation in advance,6.0,3.0,6.0,6.0,6.0,6.0,6.0,6.0,6.0,2.0,3.0,2-3 Times a Month,Male,55.0,caucasian,$20.000 - $49.999,Full time employed,Bachelor’s degree
+Frequent customer,Reservation in advance,6.0,6.0,7.0,5.0,4.0,6.0,6.0,5.0,7.0,6.0,5.0,2-3 Times a Month,Female,26.0,hispanic,under $20.000,Part time employed,Some college
+Frequent customer,VIP entrance,6.0,6.0,6.0,6.0,6.0,6.0,6.0,5.0,6.0,5.0,2.0,2-3 Times a Month,Male,24.0,caucasian,$50.000 - $79.999,Full time employed,Some college
+Frequent customer,VIP entrance,6.0,6.0,6.0,5.0,6.0,6.0,6.0,6.0,6.0,6.0,6.0,2-3 Times a Month,Male,67.0,caucasian,$20.000 - $49.999,Student,Bachelor’s degree
+Frequent customer,Flat pricing,6.0,5.0,6.0,6.0,6.0,6.0,6.0,6.0,6.0,5.0,4.0,Less than Once a Month,Female,22.0,hispanic,$100.000 or over,Student,Bachelor’s degree
+Frequent customer,Flat pricing,5.0,5.0,5.0,6.0,6.0,6.0,7.0,7.0,7.0,7.0,7.0,2-3 Times a Week,Female,32.0,caucasian,$100.000 or over,Unemployed,Some college
+Frequent customer,Flat pricing,6.0,6.0,6.0,6.0,6.0,6.0,6.0,6.0,6.0,6.0,5.0,2-3 Times a Month,Male,32.0,african american,$20.000 - $49.999,Full time employed,Some college
+Frequent customer,Flat pricing,6.0,6.0,6.0,6.0,6.0,6.0,5.0,5.0,6.0,6.0,5.0,Once a Week,Male,21.0,hispanic,$20.000 - $49.999,Student,High school diploma
+Frequent customer,Flat pricing,6.0,6.0,6.0,6.0,6.0,6.0,6.0,6.0,6.0,4.0,4.0,2-3 Times a Month,Female,21.0,caucasian,under $20.000,Student,Some college
+Frequent customer,Flat pricing,6.0,5.0,6.0,6.0,6.0,6.0,6.0,6.0,6.0,5.0,4.0,Less than Once a Month,Female,25.0,hispanic,$20.000 - $49.999,Student,Bachelor’s degree
+First time customer,Day of the week,4.0,4.0,4.0,6.0,6.0,6.0,6.0,6.0,6.0,7.0,7.0,Once a Week,Female,21.0,asian,$100.000 or over,Student,Some college
+First time customer,Day of the week,6.0,6.0,6.0,6.0,6.0,6.0,6.0,6.0,6.0,6.0,4.0,2-3 Times a Week,Female,26.0,hispanic,$50.000 - $79.999,Full time employed,Bachelor’s degree
+First time customer,Day of the week,6.0,7.0,6.0,6.0,6.0,6.0,6.0,5.0,6.0,6.0,6.0,Once a Week,Male,34.0,caucasian,under $20.000,Student,High school diploma
+First time customer,Day of the week,7.0,7.0,7.0,5.0,6.0,6.0,6.0,6.0,6.0,3.0,4.0,Less than Once a Month,Female,49.0,other,$50.000 - $79.999,Retired,Some college
+First time customer,Day of the week,6.0,5.0,5.0,6.0,6.0,6.0,6.0,6.0,6.0,5.0,4.0,Once a Week,Female,23.0,caucasian,under $20.000,Part time employed,Master’s degree
+First time customer,Day of the week,6.0,7.0,6.0,6.0,6.0,6.0,6.0,5.0,6.0,6.0,6.0,Once a Week,Male,32.0,caucasian,under $20.000,Student,High school diploma
+First time customer,Time of a day,6.0,6.0,6.0,6.0,6.0,6.0,7.0,7.0,7.0,6.0,3.0,Less than Once a Month,Female,42.0,african american,$20.000 - $49.999,Full time employed,Some college
+First time customer,Reservation in advance,6.0,6.0,6.0,6.0,6.0,6.0,6.0,6.0,6.0,6.0,5.0,2-3 Times a Week,Male,22.0,pacific islander,$100.000 or over,Student,Some college
+First time customer,Reservation in advance,6.0,6.0,6.0,6.0,6.0,6.0,6.0,6.0,6.0,2.0,1.0,Less than Once a Month,Female,46.0,caucasian,$20.000 - $49.999,Full time employed,Some graduate school
+First time customer,VIP entrance,6.0,6.0,7.0,6.0,5.0,6.0,6.0,4.0,6.0,6.0,6.0,Once a Month,Male,26.0,hispanic,$20.000 - $49.999,Full time employed,High school diploma
+First time customer,Flat pricing,6.0,6.0,6.0,6.0,6.0,6.0,7.0,7.0,6.0,6.0,6.0,2-3 Times a Month,Male,27.0,caucasian,under $20.000,Student,Some college
+First time customer,Flat pricing,6.0,6.0,6.0,6.0,6.0,6.0,5.0,6.0,4.0,6.0,6.0,Once a Week,Female,24.0,caucasian,$20.000 - $49.999,Student,Some college
+First time customer,Flat pricing,6.0,6.0,5.0,6.0,6.0,6.0,6.0,6.0,6.0,5.0,1.0,Less than Once a Month,Female,42.0,caucasian,$20.000 - $49.999,Full time employed,Some college
+First time customer,Flat pricing,6.0,6.0,6.0,6.0,6.0,6.0,5.0,4.0,6.0,5.0,4.0,2-3 Times a Week,Male,21.0,hispanic,$50.000 - $79.999,Part time employed,Some college
+Frequent customer,Time of a day,7.0,5.0,4.0,6.0,6.0,6.0,5.0,5.0,5.0,2.0,3.0,2-3 Times a Week,Male,22.0,caucasian,$100.000 or over,Student,Some college
+Frequent customer,Time of a day,7.0,6.0,6.0,6.0,6.0,6.0,6.0,6.0,6.0,5.0,5.0,Once a Week,Female,23.0,caucasian,$50.000 - $79.999,Part time employed,Bachelor’s degree
+Frequent customer,Reservation in advance,7.0,7.0,6.0,6.0,6.0,6.0,6.0,6.0,6.0,6.0,6.0,Once a Month,Female,40.0,caucasian,$80.000 - $99.999,Full time employed,High school diploma
+Frequent customer,VIP entrance,7.0,7.0,7.0,6.0,6.0,6.0,6.0,5.0,6.0,5.0,5.0,Once a Month,Male,30.0,caucasian,$20.000 - $49.999,Full time employed,Some college
+First time customer,Time of a day,7.0,7.0,6.0,6.0,6.0,6.0,5.0,5.0,4.0,6.0,4.0,Less than Once a Month,Male,55.0,caucasian,under $20.000,Retired,High school diploma
+First time customer,Reservation in advance,7.0,7.0,7.0,6.0,6.0,6.0,6.0,6.0,5.0,6.0,5.0,Less than Once a Month,Male,28.0,hispanic,$20.000 - $49.999,Full time employed,Some college
+First time customer,Reservation in advance,7.0,6.0,6.0,6.0,6.0,6.0,6.0,5.0,6.0,5.0,5.0,2-3 Times a Month,Male,28.0,african american,$20.000 - $49.999,Full time employed,High school diploma
+First time customer,Reservation in advance,7.0,7.0,7.0,6.0,6.0,6.0,6.0,6.0,5.0,3.0,3.0,Once a Week,Male,45.0,caucasian,$100.000 or over,Full time employed,Some college
+First time customer,Reservation in advance,7.0,7.0,7.0,6.0,6.0,6.0,5.0,5.0,5.0,3.0,4.0,2-3 Times a Month,Male,25.0,caucasian,$20.000 - $49.999,Full time employed,High school diploma
+First time customer,VIP entrance,7.0,7.0,7.0,6.0,7.0,6.0,6.0,5.0,6.0,6.0,5.0,Once a Week,Male,25.0,hispanic,$20.000 - $49.999,Full time employed,High school diploma
+First time customer,VIP entrance,7.0,7.0,7.0,6.0,6.0,6.0,6.0,6.0,5.0,5.0,3.0,Once a Month,Male,28.0,hispanic,$50.000 - $79.999,Full time employed,Some college
+First time customer,VIP entrance,7.0,7.0,7.0,6.0,7.0,6.0,6.0,5.0,6.0,2.0,5.0,2-3 Times a Week,Male,21.0,caucasian,$100.000 or over,Student,Some college
+First time customer,VIP entrance,7.0,7.0,7.0,6.0,6.0,6.0,6.0,6.0,6.0,4.0,4.0,Less than Once a Month,Female,21.0,caucasian,$20.000 - $49.999,Student,Some college
+First time customer,VIP entrance,7.0,7.0,7.0,6.0,6.0,6.0,4.0,4.0,7.0,5.0,1.0,Less than Once a Month,Female,42.0,caucasian,$20.000 - $49.999,Full time employed,Some college
+Frequent customer,Time of a day,4.0,3.0,5.0,5.0,6.0,7.0,6.0,6.0,5.0,3.0,2.0,Less than Once a Month,Female,57.0,hispanic,under $20.000,Full time employed,Some college
+Frequent customer,Flat pricing,5.0,7.0,7.0,7.0,5.0,7.0,6.0,4.0,6.0,6.0,5.0,Once a Month,Female,28.0,hispanic,under $20.000,Student,Some college
+Frequent customer,Flat pricing,5.0,7.0,7.0,7.0,5.0,7.0,6.0,4.0,6.0,6.0,5.0,Once a Month,Female,21.0,hispanic,under $20.000,Student,Some college
+First time customer,Time of a day,5.0,7.0,7.0,7.0,7.0,7.0,7.0,5.0,7.0,3.0,1.0,Once a Month,Male,42.0,hispanic,$80.000 - $99.999,Full time employed,Bachelor’s degree
+First time customer,Time of a day,5.0,7.0,7.0,7.0,7.0,7.0,7.0,5.0,7.0,6.0,3.0,2-3 Times a Week,Male,25.0,native american,$100.000 or over,Retired,Some high school
+First time customer,VIP entrance,5.0,7.0,7.0,7.0,7.0,7.0,7.0,5.0,7.0,6.0,6.0,Once a Week,Male,46.0,caucasian,under $20.000,Student,High school diploma
+First time customer,VIP entrance,5.0,6.0,6.0,7.0,7.0,7.0,6.0,4.0,6.0,3.0,4.0,Once a Week,Female,24.0,caucasian,$20.000 - $49.999,Student,Some college
+Frequent customer,Time of a day,6.0,6.0,7.0,6.0,7.0,7.0,7.0,7.0,7.0,3.0,2.0,Once a Week,Male,22.0,caucasian,$100.000 or over,Student,Some college
+Frequent customer,Reservation in advance,6.0,7.0,6.0,5.0,4.0,7.0,7.0,6.0,7.0,3.0,3.0,2-3 Times a Week,Male,23.0,caucasian,$100.000 or over,Full time employed,Master’s degree
+Frequent customer,Flat pricing,6.0,5.0,6.0,6.0,7.0,7.0,7.0,7.0,7.0,3.0,3.0,2-3 Times a Month,Female,21.0,caucasian,$50.000 - $79.999,Part time employed,Some college
+First time customer,Time of a day,6.0,6.0,6.0,5.0,5.0,7.0,6.0,6.0,6.0,5.0,3.0,Once a Week,Female,21.0,caucasian,under $20.000,Student,Some college
+First time customer,Time of a day,6.0,5.0,6.0,7.0,7.0,7.0,7.0,7.0,7.0,5.0,5.0,Once a Week,Female,21.0,caucasian,under $20.000,Student,Some college
+Frequent customer,Time of a day,7.0,6.0,6.0,7.0,7.0,7.0,7.0,7.0,7.0,7.0,7.0,2-3 Times a Month,Female,45.0,hispanic,under $20.000,Student,Some college
+Frequent customer,VIP entrance,7.0,6.0,6.0,6.0,7.0,7.0,6.0,6.0,6.0,6.0,3.0,Once a Week,Male,22.0,caucasian,$20.000 - $49.999,Full time employed,Some college
+Frequent customer,Flat pricing,7.0,7.0,7.0,7.0,7.0,7.0,7.0,7.0,7.0,7.0,7.0,Once a Week,Male,27.0,caucasian,under $20.000,Student,Some college
+Frequent customer,Flat pricing,5.0,5.0,5.0,7.0,7.0,7.0,7.0,7.0,7.0,7.0,6.0,Once a Week,Male,30.0,hispanic,$20.000 - $49.999,Full time employed,High school diploma
+Frequent customer,Flat pricing,6.0,6.0,6.0,7.0,7.0,7.0,7.0,7.0,7.0,7.0,7.0,Once a Week,Male,21.0,caucasian,under $20.000,Student,Some college
+First time customer,Time of a day,7.0,6.0,6.0,6.0,7.0,7.0,6.0,6.0,6.0,4.0,4.0,Once a Week,Female,21.0,african american,under $20.000,Part time employed,Some college
